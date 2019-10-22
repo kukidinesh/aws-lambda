@@ -1,6 +1,11 @@
 # aws-lambda
 how to setup and run Lambda function, api gateway and Dynamo DB
 
+Do Serverless code using -  
+1. AWS SAM
+2. Serverless framework
+
+
 Create free account
 Install AWS CLI Bundle
 
